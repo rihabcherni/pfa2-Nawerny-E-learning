@@ -1,5 +1,8 @@
 # Nawerny E-learning Mobile App (Pfa2)
 
+## Demo  
+👉 [Watch the Demo Video](https://drive.google.com/file/d/11vznXPEHPZ8eklsjmKcGLbPguj2wmpET/view?usp=sharing)
+
 **Nawerny E-learning** is an inclusive mobile application specially designed to make digital education **accessible to visually impaired users**.  
 The project leverages **Flutter** (mobile frontend), **Django** (backend), and **MongoDB** (database) to deliver a complete, scalable, and accessible learning platform.  
 
@@ -104,12 +107,9 @@ flutter run
 ### 🔹 Admin Panel
 
 <p align="center">
-  <img src="screenshots/19-admin-cours.png" width="49%" alt="Admin courses management"/>
   <img src="screenshots/20-admin-dashboard1.png" width="49%" alt="Admin dashboard view 1"/>
   <img src="screenshots/21-admin-dashboard2.png" width="49%" alt="Admin dashboard view 2"/>
+    <img src="screenshots/19-admin-cours.png" width="70%" alt="Admin courses management"/>
   <img src="screenshots/22-admin-gestion.png" width="49%" alt="Admin management panel"/>
   <img src="screenshots/23-admin-gestion2.png" width="49%" alt="Admin management panel 2"/>
 </p>
-
----
-
