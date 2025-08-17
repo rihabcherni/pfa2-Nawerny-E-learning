@@ -65,20 +65,11 @@ flutter run
   <img src="screenshots/1-login.png" width="200" alt="Login screen"/>
   <img src="screenshots/2-error-login.png" width="200" alt="Error login message"/>
   <img src="screenshots/3-role-access.jpg" width="200" alt="Role selection"/>
-</p>
-
-<p align="center">
   <img src="screenshots/4-register.png" width="200" alt="Register form"/>
   <img src="screenshots/5-email-verify.png" width="200" alt="Email verification"/>
   <img src="screenshots/6-otp.png" width="200" alt="OTP verification"/>
-</p>
-
-<p align="center">
   <img src="screenshots/7-register-teacher-success.png" width="200" alt="Successful teacher registration"/>
   <img src="screenshots/8-register-teacher-failed.png" width="200" alt="Failed teacher registration"/>
-</p>
-
-<p align="center">
   <img src="screenshots/9-forget-password.png" width="200" alt="Forgot password"/>
   <img src="screenshots/10-logout-success.png" width="200" alt="Logout success"/>
 </p>
@@ -113,18 +104,12 @@ flutter run
 ### 🔹 Admin Panel
 
 <p align="center">
-  <img src="screenshots/19-admin-cours.png" width="200" alt="Admin courses management"/>
-  <img src="screenshots/20-admin-dashboard1.png" width="200" alt="Admin dashboard view 1"/>
-  <img src="screenshots/21-admin-dashboard2.png" width="200" alt="Admin dashboard view 2"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/22-admin-gestion.png" width="200" alt="Admin management panel"/>
-  <img src="screenshots/23-admin-gestion2.png" width="200" alt="Admin management panel 2"/>
+  <img src="screenshots/19-admin-cours.png" width="50%" alt="Admin courses management"/>
+  <img src="screenshots/20-admin-dashboard1.png" width="50%" alt="Admin dashboard view 1"/>
+  <img src="screenshots/21-admin-dashboard2.png" width="50%" alt="Admin dashboard view 2"/>
+  <img src="screenshots/22-admin-gestion.png" width="50%" alt="Admin management panel"/>
+  <img src="screenshots/23-admin-gestion2.png" width="50%" alt="Admin management panel 2"/>
 </p>
 
 ---
 
-## Project Goal
-
-To empower visually impaired learners by providing them with an **accessible and inclusive e-learning platform**, enabling independent access to online courses and digital education resources.
