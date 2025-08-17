@@ -62,16 +62,16 @@ flutter run
 ### 🔹 Authentication Flow
 
 <p align="center">
-  <img src="screenshots/1-login.png" width="200" alt="Login screen"/>
-  <img src="screenshots/2-error-login.png" width="200" alt="Error login message"/>
-  <img src="screenshots/3-role-access.jpg" width="200" alt="Role selection"/>
-  <img src="screenshots/4-register.png" width="200" alt="Register form"/>
-  <img src="screenshots/5-email-verify.png" width="200" alt="Email verification"/>
-  <img src="screenshots/6-otp.png" width="200" alt="OTP verification"/>
-  <img src="screenshots/7-register-teacher-success.png" width="200" alt="Successful teacher registration"/>
-  <img src="screenshots/8-register-teacher-failed.png" width="200" alt="Failed teacher registration"/>
-  <img src="screenshots/9-forget-password.png" width="200" alt="Forgot password"/>
-  <img src="screenshots/10-logout-success.png" width="200" alt="Logout success"/>
+  <img src="screenshots/1-login.png" width="24%" alt="Login screen"/>
+  <img src="screenshots/2-error-login.png" width="24%" alt="Error login message"/>
+  <img src="screenshots/3-role-access.jpg" width="24%" alt="Role selection"/>
+  <img src="screenshots/4-register.png" width="24%" alt="Register form"/>
+  <img src="screenshots/5-email-verify.png" width="24%" alt="Email verification"/>
+  <img src="screenshots/6-otp.png" width="24%" alt="OTP verification"/>
+  <img src="screenshots/7-register-teacher-success.png" width="24%" alt="Successful teacher registration"/>
+  <img src="screenshots/8-register-teacher-failed.png" width="24%" alt="Failed teacher registration"/>
+  <img src="screenshots/9-forget-password.png" width="24%" alt="Forgot password"/>
+  <img src="screenshots/10-logout-success.png" width="24%" alt="Logout success"/>
 </p>
 
 ---
@@ -104,11 +104,11 @@ flutter run
 ### 🔹 Admin Panel
 
 <p align="center">
-  <img src="screenshots/19-admin-cours.png" width="50%" alt="Admin courses management"/>
-  <img src="screenshots/20-admin-dashboard1.png" width="50%" alt="Admin dashboard view 1"/>
-  <img src="screenshots/21-admin-dashboard2.png" width="50%" alt="Admin dashboard view 2"/>
-  <img src="screenshots/22-admin-gestion.png" width="50%" alt="Admin management panel"/>
-  <img src="screenshots/23-admin-gestion2.png" width="50%" alt="Admin management panel 2"/>
+  <img src="screenshots/19-admin-cours.png" width="49%" alt="Admin courses management"/>
+  <img src="screenshots/20-admin-dashboard1.png" width="49%" alt="Admin dashboard view 1"/>
+  <img src="screenshots/21-admin-dashboard2.png" width="49%" alt="Admin dashboard view 2"/>
+  <img src="screenshots/22-admin-gestion.png" width="49%" alt="Admin management panel"/>
+  <img src="screenshots/23-admin-gestion2.png" width="49%" alt="Admin management panel 2"/>
 </p>
 
 ---
